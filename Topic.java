@@ -10,7 +10,9 @@ public class Topic {
 
     }
 
-
+    public ArrayList<String> getitems(){
+        return items;
+    } 
 
 
 }
