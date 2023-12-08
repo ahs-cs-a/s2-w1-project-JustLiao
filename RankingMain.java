@@ -4,10 +4,7 @@ import java.util.random.*;
 public class RankingMain {
     public static void main(String[] args) {
         Runner r = new Runner();
-        
-        Scanner scanner = new Scanner(System.in);
-        Random r = new Random();
-        r.nextint(lists.size);
+  
         
         
  
