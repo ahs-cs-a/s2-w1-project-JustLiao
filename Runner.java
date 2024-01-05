@@ -64,7 +64,7 @@ public class Runner {
             }
             System.out.println(ranks15);
             }
-            System.out.println("NICE LIST! You're #1 choice is questionable though you're mad weird"); 
+            System.out.println("NICE LIST! You're #1 choice and #5 choice are questionable though you're mad weird"); 
         }
 
     
