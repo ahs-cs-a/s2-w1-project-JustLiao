@@ -28,7 +28,7 @@ public class Runner {
             
             System.out.println("Please enter your topic name:");
             String y = ask();
-            System.out.println("Write 5 things you want to rank and seperate them by commas with no spaces!");
+            System.out.println("Write 5 things you want to rank and seperate them by commas with no spaces! Example: Apple,banana,chicken,burger,potato");
             String v = ask();
             Topic custom = new Topic(y, v);
             run_the_game(custom); 
